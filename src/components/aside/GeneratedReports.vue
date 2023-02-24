@@ -11,7 +11,7 @@
         <div class="create__icon">
           <icon-plus />
         </div>
-        <div class="create__title">Создать проект</div>
+        <div class="create__title">Создать отчет</div>
       </button>
     </div>
     <reports-list />

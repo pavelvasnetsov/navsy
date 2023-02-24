@@ -1,6 +1,6 @@
 <template>
-  <div class="block" @click="$emit('update:modelValue', !modelValue)">
-    <div class="block__header">
+  <div class="block">
+    <div class="block__header" @click="$emit('update:modelValue', !modelValue)">
       <div class="block__icon" :class="{ block__icon_closed: !modelValue }">
         <icon-arrow />
       </div>
