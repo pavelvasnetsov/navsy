@@ -1,5 +1,3 @@
-# test_task_vue
-
 ## Project setup
 ```
 npm install
